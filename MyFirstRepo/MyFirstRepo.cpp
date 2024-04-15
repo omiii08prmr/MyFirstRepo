@@ -10,5 +10,6 @@ int main()
 		i++;
 	}
 	printf("This is an example of while loop");
+	printf("This is an example of pull requests");
 	return 0;
 }
