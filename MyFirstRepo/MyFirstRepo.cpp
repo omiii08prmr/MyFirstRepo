@@ -9,5 +9,6 @@ int main()
 		printf("%d\n", i);
 		i++;
 	}
+	printf("This is an example of while loop");
 	return 0;
 }
